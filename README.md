@@ -1,23 +1,43 @@
-# 🎯 Number Guessing Game (Day 2 of My Coding Streak)
+# 🧠 My Daily Python Coding Streak
 
-Today’s project is a fun little Python game where you try to guess a number between 1 and 100. The computer randomly picks a number, and you keep guessing until you get it right. It tells you if you’re too high or too low — and it counts how many tries you take.
+Welcome to my personal coding streak! I'm building one mini Python project every day — the goal is to stay consistent, learn by doing, and have fun while improving.
 
-This is part of my daily GitHub coding streak — Day 2!
-
----
-
-## 💡 What I Learned
-
-- How to generate random numbers in Python
-- Using loops and conditionals to control game logic
-- Handling errors when users enter invalid input (like text instead of numbers)
-- Writing clean, readable code
+Every folder in this repo is a new day, a new project, and a new lesson.
 
 ---
 
-## 🧪 How to Run It
+## 📅 Projects by Day
 
-Just run the Python file:
+### ✅ Day 1: Log File Creator
+📁 [View Project](./day1_log_file/)  
+🧾 A simple script that creates a daily log file with a timestamp. Perfect for journaling or tracking your progress.
 
-```bash
-python guess_game.py
+---
+
+### ✅ Day 2: Number Guessing Game
+📁 [View Project](./number_guess_game/)  
+🎯 A terminal game where you guess a random number between 1 and 100. The program gives hints and counts your attempts.
+
+---
+
+## 🚀 Why I'm Doing This
+
+- To get better at writing clean Python code
+- To build discipline through daily practice
+- To learn by creating, not just watching tutorials
+
+---
+
+## 📈 Streak Progress
+
+| Day | Project                     | Status  |
+|-----|-----------------------------|---------|
+| 1   | Log File Creator            | ✅ Done |
+| 2   | Number Guessing Game        | ✅ Done |
+| 3   | ???                         | 🔜 Coming soon |
+
+---
+
+Thanks for checking this out! Feel free to clone, try the projects, and follow along with my progress.
+
+> Follow my journey on [GitHub](https://github.com/VedantShelar) and [LinkedIn](https://www.linkedin.com/in/vedant-shelar-b25146338/)
