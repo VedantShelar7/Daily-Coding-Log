@@ -1,24 +1,23 @@
-# 🗓️ Daily Coding Log
+# 🎯 Number Guessing Game (Day 2 of My Coding Streak)
 
-Hey! I'm Vedant, and this repo is where I’m tracking my daily coding progress.
+Today’s project is a fun little Python game where you try to guess a number between 1 and 100. The computer randomly picks a number, and you keep guessing until you get it right. It tells you if you’re too high or too low — and it counts how many tries you take.
 
-I started this to:
-- Stay consistent with learning and coding every day
-- Keep a record of what I do, even if it’s small
-- Build discipline and momentum over time
+This is part of my daily GitHub coding streak — Day 2!
 
 ---
 
-### 💡 What’s in here?
-Each day I add a log inside the `/logs` folder. It could be:
-- Something new I learned
-- A small bug I fixed
-- A DSA problem I solved
-- Notes, thoughts, or anything technical I worked on
+## 💡 What I Learned
+
+- How to generate random numbers in Python
+- Using loops and conditionals to control game logic
+- Handling errors when users enter invalid input (like text instead of numbers)
+- Writing clean, readable code
 
 ---
 
-### 🚀 Started on: June 25, 2025
+## 🧪 How to Run It
 
-Not aiming for perfection — just showing up daily.  
-Let’s see where this goes 👨‍💻
+Just run the Python file:
+
+```bash
+python guess_game.py
