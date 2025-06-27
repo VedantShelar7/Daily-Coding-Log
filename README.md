@@ -24,7 +24,8 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 
 - To get better at writing clean Python code
 - To build discipline through daily practice
-- To learn by creating, not just watching tutorials
+- To learn by creating, not just watching tutorial
+- To stay concistent
 
 ---
 
