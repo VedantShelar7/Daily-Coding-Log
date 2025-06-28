@@ -8,19 +8,19 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 
 ## 📅 Projects by Day
 
-### ✅ Day 1: Log File Creator
+### ✅ Day 1: Log File Creator.
 📁 [View Project](./day1_log_file/)  
 🧾 A simple script that creates a daily log file with a timestamp. Perfect for journaling or tracking your progress.
 
 ---
 
-### ✅ Day 2: Number Guessing Game
+### ✅ Day 2: Number Guessing Game.
 📁 [View Project](./number_guess_game/)  
 🎯 A terminal game where you guess a random number between 1 and 100. The program gives hints and counts your attempts.
 
 ---
 
-## 🚀 Why I'm Doing This
+## 🚀 Why I'm Doing This.
 
 - To get better at writing clean Python code
 - To build discipline through daily practice
