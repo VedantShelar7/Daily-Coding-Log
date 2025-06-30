@@ -35,7 +35,7 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 |-----|-----------------------------|---------|
 | 1   | Log File Creator            | ✅ Done |
 | 2   | Number Guessing Game        | ✅ Done |
-| 3   | ???                         | 🔜 Coming soon |
+| 3   | ???                         | 🔜 Coming very soon :) |
 
 ---
 
