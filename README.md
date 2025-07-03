@@ -20,7 +20,7 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 
 ---
 
-### ✅ Day 3: practiced 5 real world practical application based problems using Python
+### ✅ Day 3: Thia dsy was big as I have created 5 python mini projects which has real world applications
 📁 [View Project](./2-7-25/)  
 🧠 A bundle of 5 mini Python scripts focused on mastering core concepts through practical, real-life use cases:
 
