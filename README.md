@@ -25,7 +25,7 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 🧠 A bundle of 5 mini Python scripts focused on mastering core concepts through practical, real-life use cases:
 
 1. **Unit Converter** – Convert between meters, kilometers, and centimeters  
-2. **Temperature Converter** – Convert Celsius to Fahrenheit and vice versa  
+2. **Custom Password Generator** – Generates a custom password based on your name and birth date
 3. **Emoji Translator** – Replaces text emojis (like :) or <3) with real ones 😄  
 4. **Receipt Generator** – Builds a receipt from multiple user inputs (items & prices)  
 5. **Typing Speed Test** – Calculates typing speed and accuracy in real-time
