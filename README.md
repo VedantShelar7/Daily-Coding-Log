@@ -33,7 +33,7 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 ---
 
 ### ✅ Day 4: Control Flow & Loops Mastery  
-📁 [View Project](./day4_control_flow/)  
+📁 [View Project](./3-7-25/)  
 🔁 A collection of 5 mini projects that sharpen your understanding of `if`, `else`, `for`, `while`, and loop control:
 
 1. **Vaccine Eligibility Checker** – Takes age and health status to decide if a person is eligible for vaccination.  
