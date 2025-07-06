@@ -46,10 +46,10 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 
 ## 🚀 Why I'm Doing This
 
-- To get better at writing clean Python code  
-- To build discipline through daily practice  
-- To learn by creating, not just watching tutorials  
-- To stay **consistent**
+- To get better at writing clean Python code.  
+- To build discipline through daily practice.  
+- To learn by creating, not just watching tutorials.  
+- To stay **consistent**.
 
 ---
 
