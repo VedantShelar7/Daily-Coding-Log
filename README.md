@@ -8,7 +8,7 @@ Every folder in this repo is a new day, a new project, and a new lesson.
 
 ## 📅 Projects by Day
 
-### ✅ Day 1: Log File Creator
+### ✅ Day 1: Log File Creator.
 📁 [View Project](./day1_log_file/)  
 🧾 A simple script that creates a daily log file with a timestamp. Perfect for journaling or tracking your progress.
 
